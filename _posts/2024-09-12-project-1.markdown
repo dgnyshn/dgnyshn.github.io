@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2024-09-12
+img: submarine.png
+alt: image-alt
+project-date: Sep 2024
+client: Evopra
+category: Web Development
+description: Our application offers a seamless way to store and manage your passwords securely across all your devices. With end-to-end encryption, your sensitive data is always protected, giving you peace of mind. Effortlessly generate strong passwords, auto-fill login credentials, and organize your digital life with ease. Whether you're an individual or a business, our solution is designed to meet your security needs with user-friendly features and robust protection.
+---
