@@ -7,5 +7,5 @@ alt: image-alt
 project-date: September 2024
 client: Evopra
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: Our application offers a seamless way to store and manage your passwords securely across all your devices. With end-to-end encryption, your sensitive data is always protected, giving you peace of mind. Effortlessly generate strong passwords, auto-fill login credentials, and organize your digital life with ease. Whether you're an individual or a business, our solution is designed to meet your security needs with user-friendly features and robust protection.a
 ---
